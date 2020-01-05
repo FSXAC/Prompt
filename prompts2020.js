@@ -2,6 +2,7 @@ PROMPTS = [
     "",
     "",
     "You are a dog. Your human left at 12:00. It is now 12:01. You are certain your human must be in great peril, for they have not returned. Action must be taken.",
+    "",
     "What is(are) your New Year Resolution(s)? How do you ensure that you successfully achieve it(them)?",
     "You suddenly wake up in a summer day of June 1st 1970 where you're currently located. Assuming you retain all your memories, what will you do?",
     "What did you dream about last night?",
